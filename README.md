@@ -12,7 +12,6 @@ As such it's always going to be pretty incomplete.
 
 ![Sadly the highest rez diagram I could find](drawings/new_horizons_26_drawing.jpg)
 
-|||||
 ---|---|---|---  
 **Hull Type:** |  Keel/Cbrd. | **Rig Type:** |  Masthead Sloop  
 **LOA:** |  25.42' / 7.75m | **LWL:** |  21.25' / 6.48m  
@@ -24,15 +23,18 @@ As such it's always going to be pretty incomplete.
 **Builder:** |  Ray Green & Co.(USA)  
 **Construction:** |  FG | **Bal. type:** |    
 **First Built:** |  1958 | **Last Built:** |   | **# Built:** |  175  
+
 **AUXILIARY POWER (orig. equip.)**  
 **Make:** |  Universal | **Model:** |  Atomic 4  
+|||||
+---|---|---|---  
 **Type:** |  Gas | **HP:** |  25  
 **TANKS**  
 **Water:** |  15 gals. / 57 ltrs. | **Fuel:** |  15 gals. / 57 ltrs.  
   
+**RIG AND SAIL PARTICULARS**  [**KEY**](http://sailboatdata.com/rig_diagram.htm "Rig and Sail Key Diagram" )  
 |||||
 ---|---|---|---  
-**RIG AND SAIL PARTICULARS**  [**KEY**](http://sailboatdata.com/rig_diagram.htm "Rig and Sail Key Diagram" )  
 **I(IG):** |  32.30' / 9.85m | **J:** |  9.80' / 2.99m  
 **P:** |  28.80' / 8.78m | **E:** |  12.10' / 3.69m  
 **PY:** |   | **EY:** |    
