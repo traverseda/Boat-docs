@@ -5,9 +5,10 @@ As such it's always going to be pretty incomplete.
 
 #Table of Contents
 
- * [Table of contents](#)
+ * [Table of contents](#table-of-contents)
+ * [Sailboat Data](#sailboat-data)
 
-#Data
+#Sailboat Data
 
 ![Sadly the highest rez diagram I could find](drawings/new_horizons_26_drawing.jpg)
 
