@@ -31,7 +31,11 @@ As such it's always going to be pretty incomplete.
 ---|---|---|---  
 **Make:** |  Universal | **Model:** |  Atomic 4  
 **Type:** |  Gas | **HP:** |  25  
+
 **TANKS**  
+
+|||||
+---|---|---|---  
 **Water:** |  15 gals. / 57 ltrs. | **Fuel:** |  15 gals. / 57 ltrs.  
   
 **RIG AND SAIL PARTICULARS**  [**KEY**](http://sailboatdata.com/rig_diagram.htm "Rig and Sail Key Diagram" )  
@@ -51,7 +55,7 @@ As such it's always going to be pretty incomplete.
 **More about & boats designed by:**  |  [ Sparkman & Stephens](http://sailboatdata.com/view_designer.asp?designer_id=12)  
 
 **NOTES**  
-|  S&amp;S; design #1235.  
+S&amp;S; design #1235.  
 Originally promoted as the NEW HORIZONS 25.  
 This was S&amp;S;'s first production sailboat designed as an ALL fiberglass
 small cruiser.  
