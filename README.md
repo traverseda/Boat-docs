@@ -12,7 +12,7 @@ As such it's always going to be pretty incomplete.
 
 #Photos
 
-![](photos/Sambro0.png)
+![](photos/Sambro0.jpg)
 
 #Sailboat Data
 
