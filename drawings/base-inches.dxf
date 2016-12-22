@@ -23,17 +23,17 @@ $INSBASE
   9
 $EXTMIN
  10
-3
+0
  20
-1
+-12.00000034622758
  30
 0
   9
 $EXTMAX
  10
-6
+185.3333518476747
  20
-4
+0
  30
 0
   9
@@ -91,7 +91,7 @@ STANDARD
   9
 $CLAYER
   8
-0
+inches
   9
 $CELTYPE
   6
@@ -311,7 +311,7 @@ $DIMUPT
   9
 $DIMDEC
  70
-    2
+    4
   9
 $DIMTDEC
  70
@@ -823,9 +823,9 @@ $PLIMMIN
   9
 $PLIMMAX
  10
-297
+0.01812405199613549
  20
-210
+0.01281498625989378
   9
 $UNITMODE
  70
@@ -1121,9 +1121,9 @@ AcDbViewportTableRecord
  21
 1
  12
-77.13223326855915
+303.0280622600135
  22
-27.38321842610369
+86.73394216007523
  13
 0
  23
@@ -1149,7 +1149,7 @@ AcDbViewportTableRecord
  37
 0
  40
-152.3935634148379
+387.5990632190893
  41
 1.765625
  42
@@ -2250,6 +2250,32 @@ CONTINUOUS
     0
 390
 F
+1001
+LibreCad
+1070
+    1
+  0
+LAYER
+  5
+4A
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+inches
+ 70
+    4
+ 62
+    7
+  6
+CONTINUOUS
+370
+    0
+390
+F
   0
 ENDTAB
   0
@@ -2267,7 +2293,35 @@ AcDbSymbolTable
   0
 STYLE
   5
-4A
+4B
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+iso
+ 70
+    0
+ 40
+0
+ 41
+1
+ 50
+0
+ 71
+    0
+ 42
+1
+  3
+iso
+  4
+
+  0
+STYLE
+  5
+4C
 330
 2
 100
@@ -2351,7 +2405,7 @@ ACAD
   0
 APPID
   5
-4B
+4D
 330
 9
 100
@@ -2383,7 +2437,7 @@ AcDbDimStyleTable
   0
 DIMSTYLE
 105
-4C
+4E
 330
 A
 100
@@ -2654,6 +2708,50 @@ ENDSEC
 SECTION
   2
 ENTITIES
+  0
+TEXT
+  5
+4F
+100
+AcDbEntity
+  8
+inches
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbText
+ 10
+0
+ 20
+-12
+ 30
+0
+ 40
+12
+  1
+All sizes are in inches
+ 50
+0
+ 41
+1
+ 51
+0
+  7
+iso
+ 71
+    0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
   0
 ENDSEC
   0
