@@ -12,8 +12,9 @@ As such it's always going to be pretty incomplete.
 
 ![Sadly the highest rez diagram I could find](drawings/new_horizons_26_drawing.jpg)
 
-**Hull Type:** |  Keel/Cbrd. | **Rig Type:** |  Masthead Sloop  
+|||||
 ---|---|---|---  
+**Hull Type:** |  Keel/Cbrd. | **Rig Type:** |  Masthead Sloop  
 **LOA:** |  25.42' / 7.75m | **LWL:** |  21.25' / 6.48m  
 **Beam:** |  7.75' / 2.36m | **Listed SA:** |  333 ft2 / 30.94 m2  
 **Draft (max.)** |  6.42' / 1.96m | **Draft (min.)** |  3.00' / 0.91m  
@@ -29,6 +30,8 @@ As such it's always going to be pretty incomplete.
 **TANKS**  
 **Water:** |  15 gals. / 57 ltrs. | **Fuel:** |  15 gals. / 57 ltrs.  
   
+|||||
+---|---|---|---  
 **RIG AND SAIL PARTICULARS**  [**KEY**](http://sailboatdata.com/rig_diagram.htm "Rig and Sail Key Diagram" )  
 **I(IG):** |  32.30' / 9.85m | **J:** |  9.80' / 2.99m  
 **P:** |  28.80' / 8.78m | **E:** |  12.10' / 3.69m  
@@ -41,6 +44,7 @@ As such it's always going to be pretty incomplete.
 **More about & boats built by:**  |  [Ray Greene & Co.](http://sailboatdata.com/view_builder.asp?builder_id=99)  
 **DESIGNER**  
 **More about & boats designed by:**  |  [ Sparkman & Stephens](http://sailboatdata.com/view_designer.asp?designer_id=12)  
+
 **NOTES**  
 |  S&amp;S; design #1235.  
 Originally promoted as the NEW HORIZONS 25.  
